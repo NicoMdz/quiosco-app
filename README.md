@@ -14,6 +14,7 @@ Proyecto enfocado en el aprendizaje de Context API, llamadas de distintos reques
 - MySQL
 - Prisma Studio / TablePlus
 
+# Créditos
 
 * Créditos: Juan Pablo de la Torre Vázquez <br>
 * Plataforma de enseñanza: Udemy <br>
